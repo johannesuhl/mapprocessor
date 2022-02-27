@@ -14,3 +14,4 @@ Uhl, Johannes H. (2021). How the U.S. was mapped - visualizing 130 years of topo
 
 The LinkedMap project: https://usc-isi-i2.github.io/linked-maps/
 
+<img width="1000" alt="Example: fully automatically generated seamless layer of 1:62,500 USGS topo maps in Rhode Island from around 1890. Data source: USGS HTMC. Basemap source: The OpenStreetMap Contributors." src="https://github.com/johannesuhl/mapprocessor/blob/master/RI.jpg">
