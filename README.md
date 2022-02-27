@@ -16,3 +16,5 @@ The LinkedMap project: https://usc-isi-i2.github.io/linked-maps/
 
 Example: fully automatically generated seamless layer of 1:62,500 USGS topo maps in Rhode Island from around 1890, aggregated to R,G,B averages within 100x100m grid cells. Data source: USGS HTMC. Basemap source: The OpenStreetMap Contributors.
 <img width="600" src=ri.jpg>
+
+See also some related work here: https://github.com/kylebarron/usgs-topo-tiler
