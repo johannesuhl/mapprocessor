@@ -1,4 +1,4 @@
-# Mapprocessor: A pipeline to convert color + texture information from the USGS historical topographic map collection into aggregated, seamless geospatial gridded surfaces
+# Map Processor: A pipeline to convert color + texture information from the USGS historical topographic map collection into aggregated, seamless geospatial gridded surfaces
 
 This script allows for accessing >200,000 scanned and georeferenced historical topographic maps from the United States Geological Survey (USGS) historical topographic map collection (HTMC), available in GeoTIFF format on AWS S3.
 Specifically, the user can set up a query (e.g., searching for maps of a specific scale, geographic region, or time period). These map sheets are then downloaded, and the map collar will be removed automatically.
